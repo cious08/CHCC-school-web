@@ -3,13 +3,14 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
-  },
+ "scripts": {
+  "dev": "vite",
+  "build": "vite build",
+  "preview": "vite preview"
+},
   "dependencies": {
     "@primeuix/themes": "^1.2.3",
+    "idb": "^8.0.3",
     "primeflex": "^4.0.0",
     "primeicons": "^7.0.0",
     "primevue": "^4.3.9",
