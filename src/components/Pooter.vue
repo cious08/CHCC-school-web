@@ -1,5 +1,11 @@
 <template>
   <footer class="footer">
+    <p>
+    <a href="https://github.com/cious08/CHCC-school-web.git" target="_blank">
+      Visit The Website of Concepcion Holy Cross College Inc.
+    </a>
+  </p>
+
     <!-- Footer Title -->
     <!-- Bottom Copyright -->
     <div class="footer-bottom">
