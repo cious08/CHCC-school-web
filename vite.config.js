@@ -3,6 +3,6 @@ import vue from '@vitejs/plugin-vue'
 
 // https://vite.dev/config/
 export default defineConfig({
-base: '/school-web/',
+base: '/CHCC-website-with-github/',
   plugins: [vue()],
 })
