@@ -51,9 +51,10 @@
     <div class="mobile-menu" :class="{ active: mobileOpen }">
       <div class="mobile-header">
         <div class="mobile-brand">
-          <img src="../assets/img/logos/mainlogo.png" alt="CHCC Logo" class="mobile-logo" />
-          <span>CHCC</span>
-        </div>
+  <img src="/logos/mainlogo.png" alt="CHCC Logo" class="mobile-logo" />
+  <span>CHCC</span>
+</div>
+
         <button class="mobile-close" @click="mobileOpen = false">
           <i class="pi pi-times"></i>
         </button>
