@@ -64,7 +64,7 @@
             style="margin: 5px 0 0 0; display: flex; justify-content: flex-start;"
           >
             <img
-              src="../assets/img/images/mapchcc.png"
+              src="/assets/img/images/mapchcc.png"
               alt="Holy Cross College Map"
               class="map-image"
               style="width: 500px; border-radius: 10px; display: block;"

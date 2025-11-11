@@ -6,7 +6,7 @@
     <div class="department-grid">
       <!-- Computer Science -->
       <div class="department-card">
-        <img src="../assets/img/logos/comlogo.png" alt="Computer Studies Logo" />
+        <img src="/logos/comlogo.png" alt="Computer Studies Logo" />
         <h3>Bachelor of Science in Computer Science</h3>
         <p>
           Prepares students to design complex software systems, develop algorithms, and innovate tech solutions.
@@ -51,7 +51,7 @@
 
       <!-- Accountancy -->
       <div class="department-card">
-        <img src="../assets/img/logos/bsalogo.png" alt="Accountancy Logo" />
+        <img src="/logos/bsalogo.png" alt="Accountancy Logo" />
         <h3>Bachelor of Science in Accountancy</h3>
         <p>
           Builds skills in auditing, taxation, and financial reporting for public accounting careers.
@@ -66,7 +66,7 @@
 
       <!-- Business Administration -->
       <div class="department-card">
-        <img src="../assets/img/logos/bsalogo.png" alt="Business Admin Logo" />
+        <img src="/logos/bsalogo.png" alt="Business Admin Logo" />
         <h3>Bachelor of Science in Business Administration</h3>
         <p>
           Emphasizes marketing management and leadership in business ventures.
@@ -81,7 +81,7 @@
 
       <!-- Nursing -->
       <div class="department-card">
-        <img src="../assets/img/logos/nursinglogo.png" alt="Nursing Logo" />
+        <img src="/logos/nursinglogo.png" alt="Nursing Logo" />
         <h3>Bachelor of Science in Nursing</h3>
         <p>
           Delivers training in safe, ethical, and science-based patient care across healthcare settings.
@@ -96,7 +96,7 @@
 
       <!-- Elementary Education -->
       <div class="department-card">
-        <img src="../assets/img/logos/educlogo.png" alt="Elementary Education Logo" />
+        <img src="/logos/educlogo.png" alt="Elementary Education Logo" />
         <h3>Bachelor of Elementary Education</h3>
         <p>
           Equips future teachers with content and teaching skills for grades 1–6 learners.
@@ -111,7 +111,7 @@
 
       <!-- Secondary Education -->
       <div class="department-card">
-        <img src="../assets/img/logos/educlogo.png" alt="Secondary Education Logo" />
+        <img src="/logos/educlogo.png" alt="Secondary Education Logo" />
         <h3>Bachelor of Secondary Education</h3>
         <p>
           Prepares high school educators with specialization and classroom leadership skills.
