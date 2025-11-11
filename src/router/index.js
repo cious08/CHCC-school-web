@@ -26,7 +26,8 @@ const routes = [
 ]
 
 const router = createRouter({
-  history: createWebHistory(),
+  // 🚨 FIXED: Tells the router to start all navigation from the project subdirectory.
+  history: createWebHistory('/CHCC-school-web/'), 
   routes
 })
 
